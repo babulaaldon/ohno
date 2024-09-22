@@ -1,8 +1,9 @@
-## Oh No! (C Program)
+# Oh No! (C Program)
 
-* warning: this program may cause existential dread, spontaneous laughter, or uncontrollable eye-rolling *
+__warning: this program may cause existential dread, spontaneous laughter, or uncontrollable eye-rolling__
 
-A simple C program that prints "Oh No!" to the console. But don't be fooled - it's not just any ordinary "Oh No!". This is a deeply philosophical and existential "Oh No!" that will leave you questioning the very fabric of reality.
+A simple C program that prints "Oh No!" to the console. But don't be fooled - it's not just any ordinary "Oh No!". This is a deeply philosophical and existential "*Oh No!*" 
+that will leave you questioning the very fabric of reality.
 
 How to summon the existential dread (and laughter)
 
